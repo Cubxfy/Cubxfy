@@ -1,14 +1,22 @@
-- 👋 Hi, I’m @Cubxfy
-- 👀 I’m interested in coding, gaming, fencing
-- 🌱 I’m currently learning discord.js?
-- 💞️ I’m looking to collaborate on nothing atm
-- 📫 How to reach me...
-Email - notcubify@gmail.com
-Discord - Cubxfy#9524
-Twitter - @Cubxfy
-Instagram - @Cubxfy
+## Cubxfy's Porfolio
 
-<!---
-Cubxfy/Cubxfy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Portfolio
+
+Hi, I'm Cubxfy and this is my Cyber Security Portfolio. I am currently a part-time cybersecurity student
+
+
+# Project Overview 
+|     Project     |                 Skills                |     Tools       |      Link       |
+| --------------- | ------------------------------------- | --------------- | --------------- |
+|                 |                                       | | |
+|                 |                                       |                 |                 |
+|                 |                                       |                 |                 |
+
+
+# Certifications 
+List our your certifications and/or link to them. Also include the ones you plan on doing!
+
+|     Certification     |               Completed?               |     Link       |
+| --------------------  | -------------------------------------- | ---------------| 
+|   |                xx/xx/xx                |     xxx        | 
+
