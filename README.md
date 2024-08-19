@@ -1,16 +1,22 @@
-## Hi there 👋
+## Cubxfy's Porfolio
 
-<!--
-**Cubxfy/Cubxfy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Portfolio
 
-Here are some ideas to get you started:
+Hi, I'm Cubxfy and this is my Cyber Security Portfolio. I am currently a part-time cybersecurity student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Project Overview 
+|     Project     |                 Skills                |     Tools       |      Link       |
+| --------------- | ------------------------------------- | --------------- | --------------- |
+|                 |                                       | | |
+|                 |                                       |                 |                 |
+|                 |                                       |                 |                 |
+
+
+# Certifications 
+List our your certifications and/or link to them. Also include the ones you plan on doing!
+
+|     Certification     |               Completed?               |     Link       |
+| --------------------  | -------------------------------------- | ---------------| 
+|   |                xx/xx/xx                |     xxx        | 
+
