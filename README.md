@@ -2,9 +2,6 @@
 
 # Portfolio
 
-Hi, I'm Cubxfy and this is my Cyber Security Portfolio. I am currently a part-time cybersecurity student
-
-
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
