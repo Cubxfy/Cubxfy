@@ -15,5 +15,5 @@ List our your certifications and/or link to them. Also include the ones you plan
 
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
-| IBM Cybersecurity Fundamentals   |                in progress                |     [Credly](https://www.credly.com/org/ibm-skillsbuild-students/badge/cybersecurity-fundamentals)        | 
+| IBM Cybersecurity Fundamentals   |               Completed 9.3.2024         |     [Credly](https://www.credly.com/org/ibm-skillsbuild-students/badge/cybersecurity-fundamentals)        | 
 
