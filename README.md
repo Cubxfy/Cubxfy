@@ -1,8 +1,6 @@
-# My Portfolio
+# About Me
 
-## About Me
-
-## Project Overview 
+# Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 |                 |                                       | | |
@@ -10,7 +8,7 @@
 |                 |                                       |                 |                 |
 
 
-## Certifications 
+# Certifications 
 List our your certifications and/or link to them. Also include the ones you plan on doing!
 
 |     Certification     |               Completed?               |     Link       |
