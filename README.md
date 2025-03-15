@@ -3,7 +3,7 @@
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-|Adrenaline Addict|Discord.py, basic OOP|Discord.Py, Python| |
+|Adrenaline Addict|Discord.py, OOP|Discord.Py, Python| |
 |                 |                                       |                 |                 |
 |                 |                                       |                 |                 |
 
