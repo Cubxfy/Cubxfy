@@ -1,5 +1,7 @@
 # About Me
 
+co-owner and founder @ .gg/Inertia
+
 # Project Overview 
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
