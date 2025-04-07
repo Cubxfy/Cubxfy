@@ -6,7 +6,7 @@ co-owner and founder @ .gg/Inertia
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 |Adrenaline Addict|Discord.py, OOP|Discord.Py, Python| |
-|                 |                                       |                 |                 |
+|Passphrase Generator|file importing and parsing, random library python|                 |                 |
 |                 |                                       |                 |                 |
 
 
