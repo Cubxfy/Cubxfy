@@ -9,8 +9,8 @@ co-owner and founder @ .gg/Inertia
 # Projects
 |     Project     |                 Description                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-|Inertia Bot | Discord bot for .gg/Inertia          Responsible for economy and misc commands| Discord.Py, Python | portfolio website soon or something | 
-|Passphrase Generator|file importing and parsing, random library python|                 |                 |
+|Inertia Bot | Discord bot for .gg/Inertia<br />Responsible for economy and misc commands| Discord.Py, Python | portfolio website soon or something | 
+|Passphrase Generator|Imports words from a wordlist and generates a secure passphrase | Python, Random          |                 |
 |                 |                                       |                 |                 |
 
 
