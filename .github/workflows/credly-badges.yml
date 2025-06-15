@@ -1,4 +1,4 @@
-name: "Credly Badges"
+haname: "Credly Badges"
 
 on:
   schedule:
@@ -17,4 +17,4 @@ jobs:
       - name: Update
         uses: cubxfy/credly-badges@main
         with:
-          CREDLY_USERNAME: <Cubxfy>
+          CREDLY_USERNAME: <Ethan Xu>
