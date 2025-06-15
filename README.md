@@ -7,10 +7,9 @@ co-owner and founder @ .gg/Inertia
 - SQL
 
 # Projects
-|     Project     |                 Skills                |     Tools       |      Link       |
+|     Project     |                 Description                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-|Adrenaline Addict|Discord.py, OOP|Discord.Py, Python| |
-|Inertia Bot | Discord.py, OOP | Discord.Py, Python | portfolio website soon or something | 
+|Inertia Bot | Discord bot for .gg/Inertia, Responsible for economy and misc commands| Discord.Py, Python | portfolio website soon or something | 
 |Passphrase Generator|file importing and parsing, random library python|                 |                 |
 |                 |                                       |                 |                 |
 
