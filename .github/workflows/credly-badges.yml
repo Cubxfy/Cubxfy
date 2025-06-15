@@ -15,6 +15,6 @@ jobs:
 
     steps:
       - name: Update
-        uses: cubxfy/credly-badges@main
+        uses: cubxfy/readme@main
         with:
           CREDLY_USERNAME: <Ethan Xu>
