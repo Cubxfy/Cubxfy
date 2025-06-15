@@ -19,3 +19,6 @@ co-owner and founder @ .gg/Inertia
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
 | [IBM Cybersecurity Fundamentals](https://www.ibm.com/training/badge/cybersecurity-fundamentals)   |               9.3.2024         |            | 
+
+<!--START_BADGES:badges-->
+<!--END_BADGES:badges-->
