@@ -9,8 +9,9 @@ co-owner and founder @ .gg/Inertia
 # Projects
 |     Project     |                 Description                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-|Inertia Bot | Discord bot for .gg/Inertia<br />Responsible for economy and misc commands| Discord.Py, Python | portfolio website soon or something | 
-|Passphrase Generator|Imports words from a wordlist and generates a secure passphrase | Python, Random          |                 |
+|Inertia Bot | Discord bot for .gg/Inertia<br />Responsible for economy and misc commands| Python, SQL | portfolio website soon or something | 
+|Probability Simulator<br />(informally Gambler Core) | Aforementioned economy and misc commands, no SQL | Python | [Project Link](https://github.com/Cubxfy/Probability-Simulator)|
+|Passphrase Generator|Imports words from a wordlist and generates a secure passphrase | Python, Random | [Project Link](https://github.com/Cubxfy/Passphrase-Generator)|
 |                 |                                       |                 |                 |
 
 
