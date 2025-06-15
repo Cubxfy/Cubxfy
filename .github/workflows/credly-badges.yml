@@ -15,8 +15,6 @@ jobs:
 
     steps:
       - name: Update
-        uses: mikejoh/credly-badges@main
+        uses: cubxfy/credly-badges@main
         with:
-          CREDLY_USERNAME: <Your Credly username>
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_MESSAGE: "Update Credly badges!"
+          CREDLY_USERNAME: <Cubxfy>
