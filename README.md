@@ -2,7 +2,11 @@
 
 co-owner and founder @ .gg/Inertia
 
-# Project Overview 
+# Languages
+- Python
+- SQL
+
+# Projects
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 |Adrenaline Addict|Discord.py, OOP|Discord.Py, Python| |
