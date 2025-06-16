@@ -8,7 +8,7 @@ co-owner and founder @ .gg/Inertia
 
 # In Progress
 Currently Working On: Untitled RPG Game<br />
-Currentl Learning: C
+Currently Learning: C
 
 # What I know
 - Python
