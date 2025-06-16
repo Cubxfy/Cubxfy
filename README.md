@@ -6,7 +6,7 @@ co-owner and founder @ .gg/Inertia
 
 Currently Working On: Untitled RPG Game
 
-# Languages
+# What I know
 - Python
 - SQL
 
