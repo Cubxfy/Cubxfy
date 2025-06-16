@@ -7,7 +7,7 @@ Aspiring Cybersecurity Student, Motorsport Enjoyer, Pokemon Lover
 co-owner and founder @ .gg/Inertia
 
 # In Progress
-Currently Working On: Untitled RPG Game
+Currently Working On: Untitled RPG Game<br />
 Currentl Learning: C
 
 # What I know
