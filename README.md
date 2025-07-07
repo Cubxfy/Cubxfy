@@ -4,8 +4,6 @@
 
 Aspiring Cybersecurity Student, Motorsport Enjoyer, Pokemon Lover
 
-co-owner and founder @ .gg/Inertia
-
 # In Progress
 Currently Working On: SFES<br />
 Currently Learning: C
