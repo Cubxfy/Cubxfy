@@ -6,12 +6,13 @@ Aspiring Cybersecurity Student, Motorsport Enjoyer, Pokemon Lover
 
 # In Progress
 Currently Working On: SFES<br />
-Currently Learning: HTML, CSS, JS
+Currently Learning: CSS, JS
 
 # What I know
 - Python
 - SQL
 - C
+- HTML
 
 # Projects
 |     Project     |                 Description                |     Tools       |      Link       |
