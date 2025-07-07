@@ -6,7 +6,7 @@ Aspiring Cybersecurity Student, Motorsport Enjoyer, Pokemon Lover
 
 # In Progress
 Currently Working On: SFES<br />
-Currently Learning: C
+Currently Learning: C, HTML
 
 # What I know
 - Python
@@ -15,7 +15,7 @@ Currently Learning: C
 # Projects
 |     Project     |                 Description                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
-|Inertia Bot | Discord AIO Bot <br />Responsible for economy and misc commands<br /><br />6040 lines of code across 37 commands| Python, SQL | portfolio website soon or something | 
+|Inertia Bot | Discord AIO Bot serving active community<br/>Responsible for economy and misc commands<br/><br/>6040 lines of code across 37 commands| Python, SQL | portfolio website soon or something | 
 |Probability Simulator<br />(informally Gambler Core) | Aforementioned economy and misc commands, no SQL | Python | [Project Link](https://github.com/Cubxfy/Probability-Simulator)|
 |Passphrase Generator|Imports words from a wordlist and generates a secure passphrase | Python, Random | [Project Link](https://github.com/Cubxfy/Passphrase-Generator)|
 |                 |                                       |                 |                 |
