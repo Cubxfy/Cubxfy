@@ -6,7 +6,7 @@ Aspiring Cybersecurity Student and Digital Designer, Motorsport Enjoyer, Pokemon
 
 # In Progress
 Currently Working On: SFES<br />
-Currently Learning: CSS, JS
+Currently Learning: CSS, JS, C#
 
 # What I know
 - Python
