@@ -19,9 +19,10 @@ Currently Learning: CSS, JS, C#
 |     Project     |                 Description                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 |Inertia Bot | Discord AIO Bot serving active community<br>Responsible for economy and misc commands| Python, SQL | portfolio website soon or something | 
-|Probability Simulator<br />(informally Gambler Core) | Aforementioned economy and misc commands, no SQL | Python | [Project Link](https://github.com/Cubxfy/Probability-Simulator)|
-|Passphrase Generator|Imports words from a wordlist and generates a secure passphrase | Python, Random | [Project Link](https://github.com/Cubxfy/Passphrase-Generator)|
-|                 |                                       |                 |                 |
+|Line Following Robot|Dubbed the AC920, this is the culiminating project for the Robotics for Sustainable Economic Growth around the World was to create a line following robot, with the primary goal of speed. While I helped with building and design, I primarily wrote the code that powered the bot. |Arduino, IR sensors, Ultrasonic Sensors, DC Motors, Motor Shield, Arduino UNO |[Repository](https://github.com/Cubxfy/line-following-bot)|
+|Probability Simulator<br />(informally Gambler Core) | Aforementioned economy and misc commands, no SQL | Python | [Repository](https://github.com/Cubxfy/Probability-Simulator)|
+|Passphrase Generator|Imports words from a wordlist and generates a secure passphrase | Python | [Repository](https://github.com/Cubxfy/Passphrase-Generator)|
+
 
 
 # Certifications 
