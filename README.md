@@ -5,15 +5,19 @@
 Cybersecurity Enjoyer and Digital Designer, Motorsport Enjoyer, Pokemon Lover
 
 # In Progress
-Currently Working On: SFES
+Currently Projects: SFES
 <br/>
-Currently Learning: CSS, JS, C#
+Currently Learning: JS, C#
+<br/>
+Other:
+Contractor - Project A
 
 # What I know
 - Python
 - SQL
 - C
 - HTML
+- CSS
 
 # Projects
 |     Project     |                 Description                |     Tools       |      Link       |
