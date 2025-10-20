@@ -3,7 +3,7 @@
 
 Cybersecurity Enjoyer, Designer and Developer
 
-**In Progress**
+**In Progress**<br>
 Currently Projects: SFES
 <br/>
 Currently Learning: JS, C#
@@ -11,14 +11,14 @@ Currently Learning: JS, C#
 Other:
 Contractor - Project A
 
-**What I know**
+**What I know**<br>
 - Python
 - SQL
 - C
 - HTML
 - CSS
 
-**Projects**
+**Projects**<br>
 |     Project     |                 Description                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 |Inertia Bot | Discord AIO Bot serving active community<br>Responsible for economy and misc commands| Python, SQL | portfolio website soon or something | 
@@ -28,7 +28,7 @@ Contractor - Project A
 
 
 
-**Certifications**
+**Certifications**<br>
 |     Certification     |               Completed?               |     Link       |
 | --------------------  | -------------------------------------- | ---------------| 
 | [IBM Cybersecurity Fundamentals](https://www.ibm.com/training/badge/cybersecurity-fundamentals)   |               9.3.2024         |            | 
